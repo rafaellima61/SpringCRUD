@@ -1,0 +1,10 @@
+/mnt/c/Spring-WS/mySpringCourse/src/main/java/com/educandoweb/course/CourseApplication.java
+/mnt/c/Spring-WS/mySpringCourse/src/main/java/com/educandoweb/course/config/TestConfig.java
+/mnt/c/Spring-WS/mySpringCourse/src/main/java/com/educandoweb/course/entities/Order.java
+/mnt/c/Spring-WS/mySpringCourse/src/main/java/com/educandoweb/course/entities/User.java
+/mnt/c/Spring-WS/mySpringCourse/src/main/java/com/educandoweb/course/repositories/OrderRepository.java
+/mnt/c/Spring-WS/mySpringCourse/src/main/java/com/educandoweb/course/repositories/UserRepository.java
+/mnt/c/Spring-WS/mySpringCourse/src/main/java/com/educandoweb/course/resources/OrderResource.java
+/mnt/c/Spring-WS/mySpringCourse/src/main/java/com/educandoweb/course/resources/UserResource.java
+/mnt/c/Spring-WS/mySpringCourse/src/main/java/com/educandoweb/course/services/OrderService.java
+/mnt/c/Spring-WS/mySpringCourse/src/main/java/com/educandoweb/course/services/UserService.java

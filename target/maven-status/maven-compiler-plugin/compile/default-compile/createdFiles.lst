@@ -1,0 +1,10 @@
+com/educandoweb/course/services/UserService.class
+com/educandoweb/course/resources/OrderResource.class
+com/educandoweb/course/CourseApplication.class
+com/educandoweb/course/entities/Order.class
+com/educandoweb/course/entities/User.class
+com/educandoweb/course/repositories/UserRepository.class
+com/educandoweb/course/resources/UserResource.class
+com/educandoweb/course/config/TestConfig.class
+com/educandoweb/course/repositories/OrderRepository.class
+com/educandoweb/course/services/OrderService.class
